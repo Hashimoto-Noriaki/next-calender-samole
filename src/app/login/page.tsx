@@ -5,7 +5,7 @@ export const Login = () => {
     <div className="w-[500px] bg-white rounded-lg shadow-lg py-10">
       <form className="flex flex-col justify-center items-center gap-10">
         <h1 className="text-3xl text-lime-800 font-bold text-center">
-          ログイン
+        ログイン
         </h1>
         <div className="w-[80%]">
           <input
